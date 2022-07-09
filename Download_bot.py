@@ -4,9 +4,9 @@ import requests
 DownloadPath = "/home/harrypotter/Downloads/Py _Downloads/"
 def job():
     ItemsToDownload={
-        'video': "https://youtube.com/shorts/qmZIqVYL5F0?feature=share",
-        'playlist': "https://youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU",
-        'movie': "https://file2linktsbot553.herokuapp.com/227557",
+        'video': "paste ur u-tube video link",
+        'playlist': "paste ur u-tube playlist link",
+        'movie': "paste ur video or movie download link",
     }
 
     def download_file(url):
