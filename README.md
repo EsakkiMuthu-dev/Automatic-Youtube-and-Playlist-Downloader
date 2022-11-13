@@ -25,4 +25,4 @@
         
         service crond stop
         
-> Note : For Debian or Ubuntu Based Distros you have to use Sudo infront of crond commands
+> Note : For Debian or Ubuntu Based Distros you have to use Sudo infront of crond commands.
